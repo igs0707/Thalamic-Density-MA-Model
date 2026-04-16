@@ -1,4 +1,4 @@
-# Thalamic Density × MA Model v7.2
+# A Universal Density × MA Model for Raw Qualia:On the Human Being as a Negentropy Engine
 
 Classical low-energy model of raw qualia in the thalamus.
 
