@@ -1,0 +1,10 @@
+DensityMA_Validation_Code/
+├── README.md
+├── requirements.txt
+├── config.py
+├── main_validation.py
+├── preprocessing/
+│   └── eeg_preprocessing.py      ← MNE-Python full pipeline（Supplement S1完全一致）
+├── analysis/
+│   ├── compute_density_ma.py     ← D(t) / MA(t) / Q(t) 計算
+│   └── ten_fold_cv.py            ← Subject-independent 10-fold CV
